@@ -1,0 +1,58 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 30px;
+  background-color: #f4f6fa;
+  color: #162b51;
+  line-height: 1.6;
+  text-align: center;
+}
+
+#title {
+  font-size: 2.5rem;
+  color: #FF6B81; /* Candy pink for emotional pop */
+  margin-bottom: 1rem;
+}
+
+#img-div {
+  margin: 20px auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+}
+
+#tribute-info {
+  max-width: 700px;
+  margin: 30px auto;
+  text-align: left;
+  font-size: 1.1rem;
+}
+
+#tribute-link {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  text-decoration: none;
+  background-color: #FFD93D;
+  color: #162b51;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+#tribute-link:hover {
+  background-color: #00C2D1;
+  color: white;
+}
