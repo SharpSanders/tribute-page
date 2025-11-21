@@ -3,6 +3,7 @@
 A simple, focused tribute page honoring **Chadwick Boseman**.  
 Built as part of the freeCodeCamp **Tribute Page** project, with clean layout, semantic HTML, and accessible styling.
 
+![Chadwick Boseman Tribute Page Screenshot](./img/Screenshot-tribute-page.png)
 ---
 
 ## Overview
